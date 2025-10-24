@@ -6,7 +6,7 @@ body:
     attributes:
       value: |
         Thanks for taking the time to file a bug report!
-        Please read the [Contributing Guidelines](CONTRIBUTING.md) before submitting.
+        Please read the [Contributing Guidelines](../../CONTRIBUTING.md) before submitting.
   - type: textarea
     id: description
     attributes:
