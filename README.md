@@ -7,7 +7,7 @@
 
 <div align="center"><b>Run your agents, not your infrastructure.</b></div>
 
-`mcpd` is a tool to declaratively manage [Model Context Protocol](https://modelcontextprotocol.io/overview) (MCP) servers, providing a consistent interface to define and run tools across environments, from local development to containerized cloud deployments.
+`mcpd` is a tool to declaratively manage [Model Context Protocol]([https://modelcontextprotocol.io/](https://modelcontextprotocol.io/docs/getting-started/intro)) (MCP) servers, providing a consistent interface to define and run tools across environments, from local development to containerized cloud deployments.
 
 Built by [Mozilla AI](https://mozilla.ai)
 
